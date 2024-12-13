@@ -4,7 +4,7 @@
 ### Leader : <br/>
 *** - Sungkyul Univ_Industrial Management Engineering (Professor)
 
-### Member : <br/>
+### Members : <br/>
 ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Donggeun YEOM - Sungkyul Univ_Industrial Management Engineering (Undergraduate) <br/>
 *** - Sungkyul Univ_Industrial Management Engineering (Undergraduate) <br/>
 ### Announcement Document:<br/>
